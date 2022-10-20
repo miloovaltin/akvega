@@ -1,0 +1,16 @@
+{
+"name": "akvega",
+"theme": "akvega",
+"version": "8.6.5",
+"description": "akvega สมัครเว็บไซต์คาสิโนเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
+"keywords": [
+"akvega",
+"akvega เครดิตฟรี",
+"akvega ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/akvega",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
